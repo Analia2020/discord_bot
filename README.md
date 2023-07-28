@@ -1,5 +1,19 @@
 
 ## Bot de Discord para consultar artículos en el área de la salud
+
+## Tabla de contenido
+
+- [Bot de Discord para consultar artículos en el área de la salud](#Bot-de-Discord-para-consultar-artículos-en-el-área-de-la-salud)
+  
+  - [Tabla de contenido](#Tabla-de-contenido)
+  - [Descripción](#Descripción)
+  - [Instalación](#Instalación)
+  - [Uso](#uso)
+  - [Bibliografia](#bibliografia)
+
+
+## Descripción 
+
 La información en el campo de la salud se actualiza constantemente, por lo que es fundamental estar al tanto de los últimos artículos publicados sobre temas específicos.
 Nuestro bot de Discord te permite obtener un archivo con los últimos artículos relacionados con palabras clave que ingreses.
 
@@ -12,16 +26,6 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 
 ¡Consulta los últimos avances en salud con nuestro bot de Discord y mantente actualizado en tu campo de interés!
 
-## Tabla de contenido
-
-- [Bot de Discord para consultar artículos en el área de la salud](#Bot-de-Discord-para-consultar-artículos-en-el-área-de-la-salud)
-  - [Tabla de contenido](#Tabla-de-contenido)
-  - [Descripción](#Descripción)
-  - [Instalación](#Instalación)
-  - [Uso](#uso)
-  - [Bibliografia](#bibliografia)
-
-## Descripción 
 
 
 
