@@ -43,7 +43,7 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 4. Ingresa a la carpeta del proyecto discord_bot
 5. Configura un nuevo entorno virtual e instala 'requirements.txt'
 6. Configura tu archivo credentials.yaml con el token que obtuviste previamente. Agregalo a un archivo .gitignore
-7. Ejecuta el archivo bot.ipnb
+7. Ejecuta el archivo bot.ipynb
    
 ## Uso
 Estos son los comandos para usar el bot:
