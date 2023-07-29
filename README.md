@@ -8,7 +8,7 @@
   - [Tabla de contenido](#Tabla-de-contenido)
   - [Descripción](#Descripción)
   - [Instalación](#Instalación)
-  - [Uso y ejemplos](#uso-y-ejemplos)
+  - [Uso y ejemplos](#Uso-y-ejemplos)
   - [Futuras mejoras](#Futuras-mejoras)
 
 
