@@ -28,8 +28,11 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 
 ## Archivos del proyecto
 **bot.ipynb**: Es el archivo principal del bot
+
 **pubmed_scraper.py**: Scraper del buscador PUBMED (https://pubmed.ncbi.nlm.nih.gov/)
+
 **bvsalud_scraper**: Scraper del buscador BVsalud (https://bvsalud.org/en/)
+
 **read_cred.py**: Lector de claves secretas
 
 ## Instalación 
