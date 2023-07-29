@@ -53,7 +53,9 @@ Estos son los comandos para usar el bot:
 **+hola** para comenzar de nuevo si saliste
 
 Ejemplos: 
-![Busqueda en Pubmed](url_de_la_imagen.jpg)
+![Busqueda en Pubmed](https://github.com/Analia2020/discord_bot/blob/main/discord_pubmed.jpg)
+
+![Busqueda en BVsalud](https://github.com/Analia2020/discord_bot/blob/main/discord_bvsalud.jpg)
 
 ## Futuras mejoras
 **Optimización del código**: Realizar una revisión exhaustiva del código para mejorar la eficiencia y la legibilidad
