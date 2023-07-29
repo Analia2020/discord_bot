@@ -51,7 +51,7 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 ## Uso
 Estos son los comandos para usar el bot:
 
-**+pubmed**palabra y/o palabras claves 
+**+pubmed** palabra y/o palabras claves 
 
 **+bvsalud** palabra y/o palabras claves
 
