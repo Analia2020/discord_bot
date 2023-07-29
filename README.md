@@ -47,16 +47,26 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
    
 ## Uso
 Estos son los comandos para usar el bot:
+
 **+pubmed**palabra y/o palabras claves 
+
 **+bvsalud** palabra y/o palabras claves
+
 **+adios** para salir
+
 **+hola** para comenzar de nuevo si saliste
 
 Ejemplos: 
+
+Busqueda en Pubmed
+
 ![Busqueda en Pubmed](https://github.com/Analia2020/discord_bot/blob/main/discord_pubmed.jpg)
+
+Busqueda en BVsalud
 
 ![Busqueda en BVsalud](https://github.com/Analia2020/discord_bot/blob/main/discord_bvsalud.jpg)
 
 ## Futuras mejoras
 **Optimización del código**: Realizar una revisión exhaustiva del código para mejorar la eficiencia y la legibilidad
+
 **Implementación de bot en whatsapp**: Configurar un bot en whatsapp
