@@ -30,6 +30,9 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 
 
 ## Instalación 
+1. Asegurate de tner instalado python en tu sistema y descarga la aplicacion de Discord
+2. Creacion del bot de Discord 
+   Ingresa a https://discord.com/developers/applications
 
 ## Uso
 
