@@ -63,11 +63,11 @@ Ejemplos:
 
 Busqueda en Pubmed
 
-![Busqueda en Pubmed](https://github.com/Analia2020/discord_bot/blob/main/discord_pubmed.jpg)
+![Busqueda en Pubmed](https://github.com/Analia2020/discord_bot/blob/main/images/discord_pubmed.jpg)
 
 Busqueda en BVsalud
 
-![Busqueda en BVsalud](https://github.com/Analia2020/discord_bot/blob/main/discord_bvsalud.jpg)
+![Busqueda en BVsalud](https://github.com/Analia2020/discord_bot/blob/main/images/discord_bvsalud.jpg)
 
 ## Futuras mejoras
 **Optimización del código**: Realizar una revisión exhaustiva del código para mejorar la eficiencia y la legibilidad
