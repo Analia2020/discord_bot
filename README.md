@@ -27,7 +27,7 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 ¡Consulta los últimos avances en salud con nuestro bot de Discord y mantente actualizado en tu campo de interés!
 
 ## Archivos del proyecto
-**bot.ipynb**: Es el archivo principal del bot
+**d_bot.ipynb**: Es el archivo principal del bot
 
 **pubmed_scraper.py**: Scraper del buscador PUBMED (https://pubmed.ncbi.nlm.nih.gov/)
 
@@ -46,7 +46,7 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 4. Ingresa a la carpeta del proyecto discord_bot
 5. Configura un nuevo entorno virtual e instala 'requirements.txt'
 6. Configura tu archivo credentials.yaml con el token que obtuviste previamente. Agregalo a un archivo .gitignore
-7. Ejecuta el archivo bot.ipynb
+7. Ejecuta el archivo d_bot.ipynb
    
 ## Uso
 Estos son los comandos para usar el bot:
