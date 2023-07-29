@@ -8,8 +8,8 @@
   - [Tabla de contenido](#Tabla-de-contenido)
   - [Descripción](#Descripción)
   - [Instalación](#Instalación)
-  - [Uso](#uso)
-  - [Bibliografia](#bibliografia)
+  - [Uso y ejemplos](#uso-y-ejemplos)
+  - [Futuras mejoras](#Futuras-mejoras)
 
 
 ## Descripción 
