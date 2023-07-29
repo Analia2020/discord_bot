@@ -72,4 +72,4 @@ Busqueda en BVsalud
 ## Futuras mejoras
 **Optimización del código**: Realizar una revisión exhaustiva del código para mejorar la eficiencia y la legibilidad
 
-**Implementación de bot en whatsapp**: Configurar un bot en whatsapp
+**Implementación de bot en whatsapp**: Configurar este bot en whatsapp para que pueda ser de accesible para usuarios que tienen discord
