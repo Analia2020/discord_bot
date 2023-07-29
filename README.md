@@ -48,7 +48,7 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 6. Configura tu archivo credentials.yaml con el token que obtuviste previamente. Agregalo a un archivo .gitignore
 7. Ejecuta el archivo d_bot.ipynb
    
-## Uso
+## Uso y ejemplos
 Estos son los comandos para usar el bot:
 
 **+pubmed** palabra y/o palabras claves 
