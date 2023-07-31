@@ -3,9 +3,6 @@
 
 ## Tabla de contenido
 
-- [Bot de Discord para consultar artículos en el área de la salud](#Bot-de-Discord-para-consultar-artículos-en-el-área-de-la-salud)
-  
-  - [Tabla de contenido](#Tabla-de-contenido)
   - [Descripción](#Descripción)
   - [Instalación](#Instalación)
   - [Uso y ejemplos](#Uso-y-ejemplos)
