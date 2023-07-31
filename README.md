@@ -37,15 +37,14 @@ BVS es una Red de Redes construida de manera colaborativa y coordinada por BIREM
 
 ## Instalación 
 1. Asegurate de tener instalado python en tu sistema y descarga la aplicacion de Discord
-2. Creacion del bot de Discord
+2. Creacion del bot de Discord: 
    
-   Ingresa a https://discord.com/developers/applications, crea una nueva aplicacion en 'New Application'
+   Ingresa a https://discord.com/developers/applications, crea una nueva aplicacion en *'New Application'*.    
+   Dale un nombre a ti aplicacion y haz click en *'Create'*. 
    
-   Dale un nombre a ti aplicacion y haz click en 'Create'
+   En la pestaña 'Bot' en la izquierda, haz click en *'Add Bot'*  y confirma.
    
-   En la pestaña 'Bot' en la izquierda, haz click en 'Add Bot'  y confirma.
-   
-   Copia el token que se encuentra la seccion 'Token'. Este token es esencial para el funionamiento de tu bot y debe mantenerse secreto.
+   Copia el token que se encuentra la seccion *'Token'*. Este token es esencial para el funionamiento de tu bot y debe mantenerse secreto.
 4. Clona este repositorio: 'git clone https://github.com/Analia2020/discord_bot'
 5. Ingresa a la carpeta del proyecto discord_bot
 6. Configura un nuevo entorno virtual e instala 'requirements.txt'
